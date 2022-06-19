@@ -1,6 +1,6 @@
 ### Hi there 👋🏻
 
-I am currently studying as a Data Science with Spiced Academy in Berlin, Germany. I will be done with the bootcamp in July 2022. I have gained experience of working with different technologies including Data Science, Machine Learning and Deep Learning.
+I am currently studying as a Data Scientist with Spiced Academy in Berlin, Germany. I will be done with the bootcamp in July 2022. I have gained experience of working with different technologies including Data Science, Machine Learning and Deep Learning.
 
 In the past, I have worked as an operations analyst for 8 years where i was exposed to analysing lots of data in a pension fund and mutual fund company in Ghana.
 
