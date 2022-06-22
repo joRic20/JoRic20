@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joric20&label=Profile%20views&color=0e75b6&style=flat" alt="joric20" /> </p>
 
-- 🌱 I’m currently learning **I am currently studying as a Data Scientist with Spiced Academy in Berlin, Germany. I will be done with the bootcamp in July 2022. I have gained experience of working with different technologies including Data Science, Machine Learning and Deep Learning. In the past, I have worked as an operations analyst for 7 years where i was exposed to analysing lots of data.**
+- 🌱 **I am currently studying as a Data Scientist with Spiced Academy in Berlin, Germany. I will be done with the bootcamp in July 2022. I have gained experience of working with different technologies including Data Science, Machine Learning and Deep Learning. In the past, I have worked as an operations analyst for 7 years where i was exposed to analysing lots of data.**
 
 - 📫 How to reach me **ricquan212@gmail.com**
 
